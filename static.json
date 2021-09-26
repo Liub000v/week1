@@ -1,6 +1,6 @@
 {
   "headers": {
-  "/*":{
+  "/*": {
   "X-Author": "id472956843",
    "Access-Control-Allow-Origin": "*"
   }
